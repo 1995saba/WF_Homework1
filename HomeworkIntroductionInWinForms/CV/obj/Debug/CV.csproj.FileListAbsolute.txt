@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\CV\bin\Debug\CV.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\CV\bin\Debug\CV.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\CV\bin\Debug\CV.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\CV\obj\Debug\CV.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\CV\obj\Debug\CV.FormCV.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\CV\obj\Debug\CV.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\CV\obj\Debug\CV.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\CV\obj\Debug\CV.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\CV\obj\Debug\CV.pdb

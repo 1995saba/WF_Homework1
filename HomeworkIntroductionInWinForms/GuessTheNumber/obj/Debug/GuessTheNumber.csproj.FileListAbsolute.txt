@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\GuessTheNumber\obj\Debug\GuessTheNumber.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\GuessTheNumber\obj\Debug\GuessTheNumber.GuessNumberForm.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\GuessTheNumber\obj\Debug\GuessTheNumber.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIntroductionInWinForms\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
